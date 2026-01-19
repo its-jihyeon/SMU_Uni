@@ -17,3 +17,4 @@
 | **week_11.pdf** | XXE (XML External Entity) | JSON 형식을 XML로 변환 후 외부 엔티티를 정의하여 서버 내부 파일(`file:///`)을 조회하는 공격 분석 |
 | **week_12.pdf** | 인증 메커니즘 우회 | 패킷 변조를 통해 2단계 인증(2FA) 및 보안 질문 검증 로직을 무력화하는 기법 실습 |
 | **week_13.pdf** | JWT 보안 및 권한 상승 | JSON Web Token의 구조(Header, Payload, Signature)를 분석하고 위조된 토큰으로 관리자 권한 획득 |
+| **week_14.pdf** | JWT 크래킹 및 토큰 위조 | HMAC SHA-256 비밀키를 탈취하여 페이로드(유저 정보)를 수정하고 서명을 재생성하는 권한 상승 공격 실습 |
