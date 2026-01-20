@@ -42,4 +42,4 @@
 - 🖥️ **[시스템보안](https://github.com/Jihye0n/SMU_Uni/tree/main/2025_2학기/시스템보안)**
 - 🗝️ **[정보보안론](https://github.com/Jihye0n/SMU_Uni/tree/main/2025_2학기/정보보안론)**
 - 📋 **[정보보호관리평가](https://github.com/Jihye0n/SMU_Uni/tree/main/2025_2학기/정보보호관리평가)**
-- 🚀 **캡스톤디자인 2**
+- 🚀 **[캡스톤디자인 2](https://github.com/its-jihyeon/Capstone_2)**
